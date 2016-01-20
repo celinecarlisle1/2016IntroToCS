@@ -1,8 +1,32 @@
-h1 {
-	color: white; 
-	outline-color: black;
+body{
+	background-image: url("odc.png");
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-attachment: fixed;
 }
-body {
-background-color: #143804
+h1 {
+	font-size: 70
+}
+h1 {
+	font-style: Lucida;
+	color: white;
+}
+h2 {
+	font-size: 40;
+	color: #C0C0C0;
+}
 
-	}
+h3{
+	font-size: 20;
+}
+h4{
+	font-size: 10;
+	color: #C0C0C0;
+}
+.shrinkthis{
+	display: block;
+	max-width: 150px;
+	max-height: 150px;
+	width: auto;
+	height: auto;
+}
